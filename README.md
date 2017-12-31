@@ -4,7 +4,7 @@
 
 embSnake is a reimplementation of the classic snake game typically provided together with old mobile phones (e.g. Nokia 3310). It is written to be used together with a HX8340-B LCD controller as part of an embedded project.
 
-![embSnake game running on a PC](https://raw.githubusercontent.com/dselcan/embSnake/master/docs/embSnake_PC.jpeg)
+![embSnake game running on a PC](https://raw.githubusercontent.com/dselcan/embSnake/master/docs/embSnake_PC.png)
 
 ## Installation
 
